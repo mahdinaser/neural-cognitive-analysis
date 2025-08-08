@@ -1,0 +1,91 @@
+
+================================
+LLM BRAIN ANALYSIS SUMMARY REPORT
+================================
+Generated: 2025-08-07 19:34:19
+
+OVERVIEW
+--------
+• Models Tested: 42
+• Cognitive Tasks: 21
+• Brain Regions Mapped: 10
+• Total Data Points: 8,820
+
+TOP 5 MODELS BY OVERALL BRAIN ACTIVITY
+--------------------------------------
+1. bloom-560m (BLOOM)
+   - Total Activity: 1558.42
+   - Strongest Domain: Emotional Processing (71.242)
+   - Tasks Tested: 21
+
+2. gpt-neo-125M (GPT)
+   - Total Activity: 963.79
+   - Strongest Domain: Attention & Spatial (9.401)
+   - Tasks Tested: 21
+
+3. DialoGPT-small (GPT)
+   - Total Activity: 686.11
+   - Strongest Domain: Emotional Processing (19.044)
+   - Tasks Tested: 21
+
+4. DialoGPT-medium (GPT)
+   - Total Activity: 542.39
+   - Strongest Domain: Attention & Spatial (5.737)
+   - Tasks Tested: 21
+
+5. gpt2-medium (GPT)
+   - Total Activity: 515.36
+   - Strongest Domain: Emotional Processing (8.588)
+   - Tasks Tested: 21
+
+
+MOST CHALLENGING TASKS
+----------------------
+• Sentiment Analysis (Emotional Processing)
+  - Difficulty: Hard
+  - Cognitive Complexity: 4
+  - Primary Region: Amygdala
+
+• Causal Reasoning (Logical Reasoning)
+  - Difficulty: Hard
+  - Cognitive Complexity: 4
+  - Primary Region: Amygdala
+
+• Linguistic Acceptability (Language Understanding)
+  - Difficulty: Hard
+  - Cognitive Complexity: 4
+  - Primary Region: Amygdala
+
+• Episodic Memory (Memory & Context)
+  - Difficulty: Hard
+  - Cognitive Complexity: 4
+  - Primary Region: Amygdala
+
+• Numerical Understanding (Numerical Processing)
+  - Difficulty: Hard
+  - Cognitive Complexity: 4
+  - Primary Region: Amygdala
+
+
+BRAIN REGION ACTIVITY SUMMARY
+-----------------------------
+• Amygdala: avg=4.358, std=11.462, samples=882
+• Prefrontal Cortex: avg=1.736, std=2.514, samples=882
+• Parietal Lobe: avg=1.273, std=1.847, samples=882
+• Broca Area: avg=1.090, std=1.580, samples=882
+• Temporal Lobe: avg=0.902, std=1.215, samples=882
+
+
+FAILED TO LOAD MODELS (21):
+------------------------
+• microsoft/mdeberta-v3-base
+• microsoft/mdeberta-v3-base
+• microsoft/mdeberta-v3-base
+• microsoft/mdeberta-v3-base
+• microsoft/mdeberta-v3-base
+• microsoft/mdeberta-v3-base
+• microsoft/mdeberta-v3-base
+• microsoft/mdeberta-v3-base
+• microsoft/mdeberta-v3-base
+• microsoft/mdeberta-v3-base
+... and 11 more
